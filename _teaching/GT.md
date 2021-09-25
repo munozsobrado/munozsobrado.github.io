@@ -1,6 +1,6 @@
 ---
 title: "Game Theory, M1"
-collection: talks
+collection: teaching
 type: "TD"
 permalink: /teaching/GT
 venue: "Toulouse School of Economics"
