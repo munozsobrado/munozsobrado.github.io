@@ -21,7 +21,12 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
+  gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+  gem 'tzinfo', '1.2.3'	
+  gem 'tzinfo-data', '1.2017.2'
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.7"
