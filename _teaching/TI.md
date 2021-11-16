@@ -2,7 +2,7 @@
 title: "Theory of Incentives, M1"
 collection: teaching
 type: "TD"
-permalink: /teaching/GT
+permalink: /teaching/TI
 venue: "Toulouse School of Economics"
 date: 2021-09-21
 location: "Toulouse"
