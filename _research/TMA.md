@@ -1,7 +1,7 @@
 ---
 title: "Taxing Moral Agents"
-collection: papers
-permalink: /papers/TMA
+collection: research
+permalink: /research/TMA
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
