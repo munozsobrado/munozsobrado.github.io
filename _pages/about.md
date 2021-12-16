@@ -10,14 +10,14 @@ redirect_from:
 I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular I study the role social preferences in the context of taxation.
 
 Papers
-======
+------
 
 Holier than thou: competition among charitable organisations. Theory and evidence from the U.S
 
 Taxing moral agents
 
 Work in progress
-======
+------
 
 
 
