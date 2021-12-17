@@ -12,12 +12,18 @@ I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/). My
 Papers
 ------
 
-Holier than thou: competition among charitable organisations. Theory and evidence from the U.S
+_Holier than thou: competition among charitable organisations. Theory and evidence from the U.S_
 
-Taxing moral agents
+**Abstract**
+
+_Taxing moral agents_
+
+**Abstract**
 
 Work in progress
 ------
+
+
 
 
 
