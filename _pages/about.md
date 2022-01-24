@@ -23,7 +23,7 @@ _Experimental and empirical findings suggest that non-pecuniary motivations play
 Work in progress
 ------
 
-![](/images/dota3.jpg)
+![](/images/dota1.jpg)
 
 
 
