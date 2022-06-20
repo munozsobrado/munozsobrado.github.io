@@ -10,3 +10,8 @@ location: "Toulouse"
 
 You can find the Mathcha files for my TD [here](https://www.mathcha.io/editor/Er9zHoQU4QC40Y2VoCZpYrYLuKGwnwqT2Wg2Q6).
 
+---
+
+![](/images/GT.png)
+
+
