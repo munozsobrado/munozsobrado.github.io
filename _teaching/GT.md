@@ -12,6 +12,6 @@ You can find the Mathcha files for my TD [here](https://www.mathcha.io/editor/Er
 
 ---
 
-![](/images/GT.png)
+![](/images/GT.jpg)
 
 
