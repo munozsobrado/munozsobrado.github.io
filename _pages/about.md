@@ -19,6 +19,8 @@ _Charities actively engage in costly fundraising to collect the proceeds necessa
 
 <ins>Taxing moral agents<ins>
 
+<b>[CESifo Working Paper No. 9867](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)<b>
+
 _Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decision to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems._
 
 Work in progress
