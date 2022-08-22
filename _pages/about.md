@@ -24,6 +24,9 @@ _Experimental and empirical findings suggest that non-pecuniary motivations play
 Work in progress
 ------
 
+<ins>Resource allocation in the presence of moral hazard and endogenous adverse selection</ins> <b>[with [Alae Baha]](https://sites.google.com/view/alae-baha/accueil)<b>
+
+
 ![](/images/dota1r.jpg)
 
 
