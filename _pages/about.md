@@ -26,7 +26,7 @@ Work in progress
 
 <ins>Resource allocation in the presence of moral hazard and endogenous adverse selection</ins> 
 
-Joint work with <b>[Alae Baha](https://sites.google.com/view/alae-baha/accueil)<b>
+[with <b>[Alae Baha](https://sites.google.com/view/alae-baha/accueil)<b>]
 
 _A principal wants to develop a new product by delegating its production to an agent. Production is dichotomic and stochastic. The agent allocates resources between a task that yields direct production and a task that increases his productivity. Increasing productivity makes effort more costly. We show that when the resource allocation is non-observable, the agent's final productivity in the contract proposed by the principal is lower than the optimal one. In this setting, raising bonuses encourages both effort and increases in productivity, as a result, compared to a benchmark in which the allocation is observable, the principal has incentives to reduce the bonus due to the agent being less productive and incentives to increase the bonus to encourage him to increase his productivity. The main result of our paper shows that, when both the initial productivity and the cost of increasing productivity are small, this leads to higher bonuses than the full observability benchmark._
 
