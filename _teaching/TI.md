@@ -8,4 +8,4 @@ date: 2021-09-21
 location: "Toulouse"
 ---
 
-You can find the Mathcha files for my TD [here](https://www.mathcha.io/editor/4W95sNVtLpHpB4YxLF0BNyBYsGmy21zuydQQ19).
+You can find the Mathcha files for my TD [here](https://www.mathcha.io/editor/4W95sNVtLpHpB4YxLF0BNyBYsGmy21zuydQQ19). ![](/images/IT1.jpg)
