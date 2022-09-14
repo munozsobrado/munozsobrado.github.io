@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esteban Muñoz Sobrado"
+title                    : "E. Muñoz Sobrado"
 title_separator          : "-"
-name                     : &name "Esteban Muñoz Sobrado"
+name                     : &name "E. Muñoz Sobrado"
 description              : &description "PhD student, Toulouse School of Economics"
 url                      : https://munozsobrado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Esteban Muñoz"
+  name             : "Esteban Muñoz Sobrado"
   avatar           : "profilepng.png"
   bio              : "PhD student"
   location         : "Toulouse School of Economics"
