@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img align="right" src="/images/BW.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular, I study the role played by social preferences in the context of taxation, and how competition among prosocial actors may affect the decentralized provision of public goods. Broadly, I am interested in Contract Theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
 
 
