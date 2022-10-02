@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style type="text/css">
-  ul { font-size: 13px; }
+  ul { font-size: 20px; }
   details { margin-left: 10px; font-size: 12px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
@@ -26,7 +26,7 @@ Papers
 ------
 
 <ins>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</ins> 
-<details> <summary> <font color="MidnightBlue">  
+<details> <summary> <font color="Teal">  
 Abstract  <br>  
 </font> </summary>
     <p>
@@ -35,7 +35,7 @@ Charities actively engage in costly fundraising to collect the proceeds necessar
     </details>
 
 <ins>Taxing moral agents</ins> <b>[[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)<b>
-<details> <summary>  <font color="MidnightBlue">  
+<details> <summary>  <font color="Teal">  
 Abstract  <br>  
 </font>  </summary>
     <p>
@@ -48,7 +48,7 @@ Work in progress
 
 <ins>Resource allocation in the presence of moral hazard and endogenous adverse selection</ins> 
 _with_ <b>[Alae Baha](https://sites.google.com/view/alae-baha/accueil)<b>
-<details> <summary>  <font color="MidnightBlue">  
+<details> <summary>  <font color="Teal">  
 Abstract  <br>  
 </font>  </summary>
     <p>
