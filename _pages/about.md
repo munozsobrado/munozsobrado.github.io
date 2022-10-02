@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style type="text/css">
-  ul { font-size: 13px; }
+  ul { font-size: 14px; }
   details { margin-left: 10px; font-size: 12px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
@@ -31,8 +31,6 @@ Abstract  <br>
 </font> </summary>
     <p>
 Charities actively engage in costly fundraising to collect the proceeds necessary to fund their activities. I build a model in which charities compete for donations trough informative advertising and may differ in terms of quality in a setting with atomistic donors that value efficient charities heterogeneously. In equilibrium, advertising expenditures are excessive with respect to a welfare-maximising benchmark. Moreover, this inefficiency is increasing in the amount of funds available in the market. This result yields three predictions: (i) increases in the deductibility rate of charitable donations should correlate positively with measures of intensity of competition between charities, (ii) equilibrium quality provision may be affected by such deductibility rate, (iii) normative estimates of the optimal deductibility rate that do not take into account the effect of competition need to be adjusted downwards. I use data from the IRS, Kantar Media and Charity Navigator to estimate a structural model of competition to assess (i) and (ii) and provide appropriate estimates on (iii) for the US.
-
-<img src="/images/DMAs.png" style="width:500px;"/>
     </p>
     </details>
 
@@ -42,7 +40,6 @@ Abstract  <br>
 </font>  </summary>
     <p>
 Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
-<img src="/images/laffer.png" style="width:500px;"/>
     </p>
     </details>
 
@@ -59,7 +56,6 @@ A principal wants to develop a new product by delegating its production to an ag
     </p>
     </details>
 
-![](/images/dota1r.jpg)
 
 
 
