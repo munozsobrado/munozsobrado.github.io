@@ -12,8 +12,12 @@ About me
 ------
 <img align="right" src="/images/IMG_5270.jpg" alt="Photo" style="width: 190px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular, I study the role played by social preferences in the context of taxation, and how competition among prosocial actors may affect the decentralized provision of public goods. Broadly, I am interested in Contract Theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
----
-
+ <details> <summary> Abstract </summary>
+    <p>
+Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
+<img src="/images/laffer.png" style="width:500px;"/>
+    </p>
+    </details>
 Papers
 ------
 <ul>
