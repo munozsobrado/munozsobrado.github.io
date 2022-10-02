@@ -14,9 +14,8 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
 
-<ins>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</ins>
-<details> <summary> <font color="blue">  
-Abstract   <br>  
+<ins>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</ins> <details> <summary> <font color="CornflowerBlue">  
+Abstract  <br>  
 </font> </summary>
     <p>
 Charities actively engage in costly fundraising to collect the proceeds necessary to fund their activities. I build a model in which charities compete for donations trough informative advertising and may differ in terms of quality in a setting with atomistic donors that value efficient charities heterogeneously. In equilibrium, advertising expenditures are excessive with respect to a welfare-maximising benchmark. Moreover, this inefficiency is increasing in the amount of funds available in the market. This result yields three predictions: (i) increases in the deductibility rate of charitable donations should correlate positively with measures of intensity of competition between charities, (ii) equilibrium quality provision may be affected by such deductibility rate, (iii) normative estimates of the optimal deductibility rate that do not take into account the effect of competition need to be adjusted downwards. I use data from the IRS, Kantar Media and Charity Navigator to estimate a structural model of competition to assess (i) and (ii) and provide appropriate estimates on (iii) for the US.
