@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <style type="text/css">
-  ul { font-size: 20px; }
-  details { margin-left: 10px; font-size: 20px; }
+  ul { font-size: 18px; }
+  details { margin-left: 10px; font-size: 14px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
-  h4 + details { margin-top: -20px; }
-  p + details { margin-top: -20px; }
+  h4 + details { margin-top: -15px; }
+  p + details { margin-top: -15px; }
   summary + p { text-align: justify; }
 </style>
 ---
