@@ -13,8 +13,8 @@ redirect_from:
   details { margin-left: 10px; font-size: 12px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
-  h4 + details { margin-top: -10px; }
-  p + details { margin-top: -10px; }
+  h4 + details { margin-top: -20px; }
+  p + details { margin-top: -20px; }
   summary + p { text-align: justify; }
 </style>
 ---
