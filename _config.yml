@@ -267,6 +267,7 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 #NEW
+enable_darkmode:            true   # enables switching between light/dark modes
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -285,3 +286,5 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+
+
