@@ -24,7 +24,7 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 
 Papers
 ------
-
+ <h3>
 <strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br><br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
@@ -43,7 +43,7 @@ Abstract (click to expand)
 Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
     </p>
     </details>
-
+ </h3>
 Work in progress
 ------
 
