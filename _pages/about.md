@@ -10,7 +10,7 @@ redirect_from:
 
 <style type="text/css">
   ul { font-size: 18px; }
-  details { margin-left: 10px; font-size: 14px; }
+  details { margin-left: 0px; font-size: 16px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
   h4 + details { margin-top: -15px; }
@@ -25,7 +25,7 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
 
-<ins>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</ins> 
+<strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br>
 <details> <summary> <font color="Teal">  
 Abstract  <br>  
 </font> </summary>
@@ -33,8 +33,9 @@ Abstract  <br>
 Charities actively engage in costly fundraising to collect the proceeds necessary to fund their activities. I build a model in which charities compete for donations through informative advertising and may differ in terms of quality in a setting with atomistic donors that value efficient charities heterogeneously. In equilibrium, advertising expenditures are excessive with respect to a welfare-maximising benchmark. Moreover, this inefficiency is increasing in the amount of funds available in the market. This result yields three predictions: (i) increases in the deductibility rate of charitable donations should correlate positively with measures of intensity of competition between charities, (ii) equilibrium quality provision may be affected by such deductibility rate, (iii) normative estimates of the optimal deductibility rate that do not take into account the effect of competition need to be adjusted downwards. I use data from the IRS, Kantar Media and Charity Navigator to estimate a structural model of competition to assess (i) and (ii) and provide appropriate estimates on (iii) for the US.
     </p>
     </details>
+<br>
 
-<ins>Taxing moral agents</ins> <b>[[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)<b>
+<strong>Taxing moral agents</strong> [[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)
 <details> <summary>  <font color="Teal">  
 Abstract  <br>  
 </font>  </summary>
@@ -46,8 +47,8 @@ Experimental and empirical findings suggest that non-pecuniary motivations play 
 Work in progress
 ------
 
-<ins>Resource allocation in the presence of moral hazard and endogenous adverse selection</ins> 
-_with_ <b>[Alae Baha](https://sites.google.com/view/alae-baha/accueil)<b>
+<strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong>
+(with [Alae Baha](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  <br>  
 </font>  </summary>
