@@ -18,14 +18,14 @@ redirect_from:
   summary + p { text-align: justify; }
 </style>
 
-<body>
+
 <img align="right" src="/images/IMG_5270.jpg" alt="Photo" style="width: 190px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular, I study the role played by social preferences in the context of taxation, and how competition among prosocial actors may affect the decentralized provision of public goods. Broadly, I am interested in Contract Theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
-</body>
+
 
 <h2>Papers<h2>
 
- <h3>
+ 
 <strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br><br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
@@ -44,7 +44,7 @@ Abstract (click to expand)
 Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
     </p>
     </details>
- </h3>
+ 
 <h2>Work in Progress</h2>
 
 
@@ -59,5 +59,5 @@ A principal wants to develop a new product by delegating its production to an ag
     </details>
 
 
-
+testA
 
