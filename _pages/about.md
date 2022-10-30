@@ -26,7 +26,7 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
  
-<strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br><br>
+<strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
 </font> </summary>
@@ -34,6 +34,7 @@ Abstract (click to expand)
 Charities actively engage in costly fundraising to collect the proceeds necessary to fund their activities. I build a model in which charities compete for donations through informative advertising and may differ in terms of quality in a setting with atomistic donors that value efficient charities heterogeneously. In equilibrium, advertising expenditures are excessive with respect to a welfare-maximising benchmark. Moreover, this inefficiency is increasing in the amount of funds available in the market. This result yields three predictions: (i) increases in the deductibility rate of charitable donations should correlate positively with measures of intensity of competition between charities, (ii) equilibrium quality provision may be affected by such deductibility rate, (iii) normative estimates of the optimal deductibility rate that do not take into account the effect of competition need to be adjusted downwards. I use data from the IRS, Kantar Media and Charity Navigator to estimate a structural model of competition to assess (i) and (ii) and provide appropriate estimates on (iii) for the US.
     </p>
     </details>
+<br><br>
 
 <strong>Taxing moral agents</strong>  <br>
 [[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)
@@ -48,7 +49,7 @@ Experimental and empirical findings suggest that non-pecuniary motivations play 
 Work in Progress
 ------
 
-<strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br><br>
+<strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
 (with [Alae Baha](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
@@ -58,5 +59,4 @@ A principal wants to develop a new product by delegating its production to an ag
     </p>
     </details>
 
-TestB
 
