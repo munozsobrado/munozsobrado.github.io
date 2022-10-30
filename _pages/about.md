@@ -23,8 +23,8 @@ redirect_from:
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular, I study the role played by social preferences in the context of taxation, and how competition among prosocial actors may affect the decentralized provision of public goods. Broadly, I am interested in Contract Theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
 
 
-<h2>Papers<h2>
-
+Papers
+------
  
 <strong>Holier than thou: competition among charitable organisations. Theory and evidence from the U.S</strong> <br><br>
 <details> <summary> <font color="Teal">  
@@ -45,8 +45,8 @@ Experimental and empirical findings suggest that non-pecuniary motivations play 
     </p>
     </details>
  
-<h2>Work in Progress</h2>
-
+Work in Progress
+------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br><br>
 (with [Alae Baha](https://sites.google.com/view/alae-baha/accueil))
