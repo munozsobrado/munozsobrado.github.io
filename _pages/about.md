@@ -10,6 +10,7 @@ redirect_from:
 
 <style type="text/css">
   ul { font-size: 18px; }
+  body { font-size: 16px; }
   details { margin-left: 0px; font-size: 16px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
