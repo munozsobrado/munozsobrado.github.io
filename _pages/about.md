@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style type="text/css">
-  ul { font-size: 15px; }
+  ul { font-size: 18px; }
   body { font-size: 16px; }
   details { margin-left: 0px; font-size: 15px; }
   h3 + ul { margin-top: -5px; }
@@ -21,7 +21,7 @@ redirect_from:
 </style>
 
 
-<img align="right" src="/images/IMG_5270.jpg" alt="Photo" style="width: 205px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="/images/IMG_5270.jpg" alt="Photo" style="width: 205px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My main interests lie in the intersection between Behavioural and Public Economics, in particular, I study the role played by social preferences in the context of taxation, and how competition among prosocial actors may affect the decentralized provision of public goods. Broadly, I am interested in Contract Theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
 
 
