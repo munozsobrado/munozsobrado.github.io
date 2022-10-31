@@ -17,6 +17,7 @@ redirect_from:
   h4 + details { margin-top: -15px; }
   p + details { margin-top: -15px; }
   summary + p { text-align: justify; }
+  .bottom-three {margin-bottom: 3cm; }
 </style>
 
 
