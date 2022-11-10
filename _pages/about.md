@@ -35,8 +35,8 @@ Abstract (click to expand)
     <p>
 Charities actively engage in costly fundraising to collect the proceeds necessary to fund their activities. I build a model in which charities compete for donations through informative advertising and may differ in terms of quality in a setting with atomistic donors that value efficient charities heterogeneously. In equilibrium, advertising expenditures are excessive with respect to a welfare-maximising benchmark. Moreover, this inefficiency is increasing in the amount of funds available in the market. This result yields three predictions: (i) increases in the deductibility rate of charitable donations should correlate positively with measures of intensity of competition between charities, (ii) equilibrium quality provision may be affected by such deductibility rate, (iii) normative estimates of the optimal deductibility rate that do not take into account the effect of competition need to be adjusted downwards. I use data from the IRS, Kantar Media and Charity Navigator to estimate a structural model of competition to assess (i) and (ii) and provide appropriate estimates on (iii) for the US.
     </p>
-    </details>
-<strong>Presented:</strong> ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
+    </details><br>
+<strong>Presentations:</strong> ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
 <strong>Taxing moral agents</strong>  <br> 
 [[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)
 <details> <summary>  <font color="Teal">  
@@ -45,7 +45,9 @@ Abstract (click to expand)
     <p>
 Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
     </p>
-    </details>
+    </details><br>
+<strong>Presentations:</strong> IIPF Congress 2022. CESifo Area Conference on Public Economics. Fairness and the Moral Mind workshop. LawPolEcCon. Max Plank Institute for Public Goods and Tax Law. Tilburg Enter Network Seminar. Workshop of Industrial and Public Economics. ECO-SOS, Universitat
+Rovira i Virgili.  <br><br>
  
 Work in Progress
 ------
