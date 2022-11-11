@@ -37,8 +37,8 @@ Charities actively engage in costly fundraising to collect the proceeds necessar
     </p>
     </details><br>
 <strong>Presentations:</strong> ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
-<strong>Taxing moral agents</strong>  <br> 
-[[CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)
+<strong>Taxing moral agents</strong> 
+[ [CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents)
 <details> <summary>  <font color="Teal">  
 Abstract (click to expand) 
 </font>  </summary>
