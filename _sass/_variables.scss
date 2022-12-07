@@ -44,6 +44,7 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
+	test
    Colors
    ========================================================================== */
 
@@ -54,12 +55,12 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #252a34;
-$background-color: #f3f3f3 !default;
-$text-color: #343434 !default;
-$muted-text-color: #8e8b82 !default;
-$primary-color: #343434 !default;
-$border-color: #e9dcbe !default;
-$footer-background-color: #e9dcbe !default;;
+$background-color           : #f3f3f3 !default;
+$text-color                 : #343434 !default;
+$muted-text-color           : #8e8b82 !default;
+$primary-color              : #343434 !default;
+$border-color               : #e9dcbe !default;
+$footer-background-color    : #e9dcbe !default;;
 
 $primary-color              : #8cd2d5;
 $success-color              : #62c462;
