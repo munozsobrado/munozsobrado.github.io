@@ -9,7 +9,6 @@
  *  - https://twitter.com/mmistakes
  *
 */
-@import "vendor/breakpoint/breakpoint"; // media query mixins
 
 /*
  *    Minimal Mistakes Jekyll Theme (comment)
@@ -19,6 +18,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
