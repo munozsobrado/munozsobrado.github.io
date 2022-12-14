@@ -46,7 +46,7 @@ Abstract (click to expand)
 Experimental and empirical findings suggest that non-pecuniary motivations play a significant role as determinants of taxpayers’ decisions to comply with the tax authority and shape their perceptions and assessment of the tax code. By contrast, the canonical optimal income taxation model focuses on material sanctions as the primary motive for compliance. This paper shows how taxpayers equipped with evolutionary Kantian preferences can account for both these non-pecuniary and material motivations. It builds a general model of income taxation in the presence of a public good, which agents value morally, and solves for the optimal linear and non-linear taxation problems.
     </p>
     </details><br>
-<strong>Presentations:</strong> IIPF Congress 2022 (Linz), CESifo Area Conference on Public Economics 2022, Fairness and the Moral Mind workshop (FAIR center, Norwegian School of Economics), LawPolEcCon 2021 (Max Plank Institute for Public Goods and Tax Law), Tilburg Enter Network Seminar 2021, 2021 Workshop of Industrial and Public Economics (Universitat
+<strong>Presentations:</strong> IIPF Congress 2022 (Linz), CESifo Area Conference on Public Economics 2022, Fairness and the Moral Mind workshop (FAIR center, Norwegian School of Economics), LawPolEcCon 2021 (Max Planck Institute for Public Goods and Tax Law), Tilburg Enter Network Seminar 2021, 2021 Workshop of Industrial and Public Economics (Universitat
 Rovira i Virgili)  <br><br>
  
 Work in Progress
