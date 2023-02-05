@@ -18,6 +18,9 @@ redirect_from:
   p + details { margin-top: -15px; }
   summary + p { text-align: justify; }
   .bottom-three {margin-bottom: 3cm; }
+  body {
+  margin-right: 40px;
+}
 </style>
 
 
