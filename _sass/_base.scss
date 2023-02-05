@@ -14,7 +14,6 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  margin-right: 120px !important;
 
 
   &.overflow--hidden {
@@ -24,6 +23,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  margin-right: 120px !important;
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
