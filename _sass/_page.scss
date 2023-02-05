@@ -10,12 +10,14 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  body { margin-right: 90px !important; }
 
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
 }
+
+body { margin-right: 90px !important; }
+
 
 .page {
   @include breakpoint($large) {
