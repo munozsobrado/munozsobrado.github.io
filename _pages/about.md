@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <style type="text/css">
+  body { margin-right: 90px !important; }
   ul { font-size: 19px; }
   body { font-size: 19px; }
   details { margin-left: 0px; font-size: 17px; }
@@ -18,7 +19,6 @@ redirect_from:
   p + details { margin-top: -15px; }
   summary + p { text-align: justify; }
   .bottom-three {margin-bottom: 3cm; }
-  body { margin-right: 90px !important; }
 </style>
 
 
@@ -55,7 +55,7 @@ Work in Progress
 ------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
-(with [Alae Baha, Oxford](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
