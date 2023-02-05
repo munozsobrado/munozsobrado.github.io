@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <style type="text/css">
-  ul { font-size: 18px; }
-  body { font-size: 18px; }
-  details { margin-left: 0px; font-size: 16px; }
+  ul { font-size: 19px; }
+  body { font-size: 19px; }
+  details { margin-left: 0px; font-size: 17px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
   h4 + details { margin-top: -14px; }
