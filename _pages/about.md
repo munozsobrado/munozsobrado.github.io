@@ -52,7 +52,7 @@ Work in Progress
 ------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
-(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [.Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
