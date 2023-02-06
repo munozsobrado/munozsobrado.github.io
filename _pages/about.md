@@ -10,7 +10,7 @@ redirect_from:
 
 <style type="text/css">
 .container {
-    width: 150%; /* increase this value to make the container wider */
+    width: 15000%; /* increase this value to make the container wider */
     margin: 0 auto; /* center the container on the page */
   }
   ul { font-size: 19px; }
@@ -58,7 +58,7 @@ Work in Progress
 ------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
-(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [.Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
