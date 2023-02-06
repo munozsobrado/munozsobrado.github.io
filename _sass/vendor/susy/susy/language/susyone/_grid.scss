@@ -76,7 +76,7 @@
     @include rem(padding-left, $grid-padding);
     @include rem(padding-right, $grid-padding);
   }
-  margin: { left: auto; right: auto; }
+  margin: { left: auto; right: 0em; }
 }
 
 // Set one or more layouts on a grid-containing element at any number of media-query breakpoints.
