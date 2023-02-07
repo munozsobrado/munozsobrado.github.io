@@ -25,27 +25,55 @@ main {
   p + details { margin-top: -15px; }
   summary + p { text-align: justify; }
   .bottom-three {margin-bottom: 3cm; }
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: auto;
+* {
+  box-sizing: border-box;
 }
 
-figcaption {
-  background-color: white;
-  color: black;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}}
 </style>
+
 
 <body>
 
-<figure>
-  <img src="/images/Osa.webp" alt="Drake" style="width:100%">
-  <figcaption><a href="https://en.wikipedia.org/wiki/Stone_spheres_of_Costa_Rica">Diquís Spheres</a>. Osa, Costa Rica.</figcaption>
-</figure>
+<h2>Pictures from Costa Rica </h2>
+<p>To look at when the winter gets hard.</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/Osa.webp" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/Drake.webp" alt="Forest" style="width:80%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:80%">
+  </div>
+</div>
+   <figcaption>From left to right: <a href="https://en.wikipedia.org/wiki/Stone_spheres_of_Costa_Rica">Diquís Spheres</a>. Osa, Costa Rica.</figcaption>
 
 </body>
 
