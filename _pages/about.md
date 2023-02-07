@@ -10,8 +10,7 @@ redirect_from:
 
 <style type="text/css">
   ul { font-size: 19px; }
-  body { font-size: 19px; }
-  body {
+  body { font-size: 19px;
   margin: 0;
   padding: 0;
   width: 100vw;
