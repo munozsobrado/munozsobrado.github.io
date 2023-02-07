@@ -28,7 +28,7 @@ main {
   .bottom-three {margin-bottom: 3cm; }
 </style>
 
-<img align="right" src="/images/IMG_5270.webp" alt="Photo" style="width: 205px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
+<img align="right" src="/images/IMG_5270.webp" alt="Photo" style="width: 255px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My research focuses on the intersection of behavioural and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).
 
 Papers
@@ -60,7 +60,7 @@ Work in Progress
 ------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
-(with [Alae Baha [_Oxford]](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
