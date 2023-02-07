@@ -16,6 +16,9 @@ redirect_from:
   width: 100vw;
   overflow-x: hidden;
   }
+main {
+  width: 80%;
+}
   details { margin-left: 0px; font-size: 17px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
@@ -57,7 +60,7 @@ Work in Progress
 ------
 
 <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
-(with [Alae Baha [.Oxford]](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [_Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
