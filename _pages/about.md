@@ -11,6 +11,12 @@ redirect_from:
 <style type="text/css">
   ul { font-size: 19px; }
   body { font-size: 19px; }
+  body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  overflow-x: hidden;
+  }
   details { margin-left: 0px; font-size: 17px; }
   h3 + ul { margin-top: -5px; }
   h4 + p { margin-top: -15px; }
