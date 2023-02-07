@@ -54,8 +54,8 @@ Experimental and empirical findings suggest that non-pecuniary motivations play 
     </p>
     </details><br>
 <strong>Presentations:</strong> IIPF Congress 2022 (Linz), CESifo Area Conference on Public Economics 2022, Fairness and the Moral Mind workshop (FAIR center, Norwegian School of Economics), LawPolEcCon 2021 (Max Planck Institute for Public Goods and Tax Law), Tilburg Enter Network Seminar 2021, 2021 Workshop of Industrial and Public Economics (Universitat
-Rovira i Virgili)  <br><br>
- 
+Rovira i Virgili)  <br>
+
 Work in Progress
 ------
 
