@@ -53,7 +53,49 @@ main {
 
 <body>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0gzmAXWqZUG1wAvz31zAUw?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-player">
+  <script src="https://sdk.scdn.co/spotify-player.js"></script>
+  <script>
+    window.onSpotifyWebPlaybackSDKReady = () => {
+      const token = 'BQC1nosCAkPq364lA97YPjlxaL02Cp13v9tCOKQI2u-kBkN1KLto0-bbykb255FecB6CKyta-jh3T0k7Rb5DSXrlgXA7QYQrqTFv3DHRZScMxBjRBjsp9NjHwttrVC6Trl3NtZ9jFh_wwGhvOzKmJBGIGUcTZevko8pMCiK2SlW_Wh9ViPgNH72Py-WB5Q';
+      const player = new Spotify.Player({
+        name: 'Web Playback SDK Quick Start Player',
+        getOAuthToken: cb => { cb(token); }
+      });
+
+      player.addListener('ready', ({ device_id }) => {
+        const play = ({
+          spotify_uri,
+          playerInstance: {
+            _options: {
+              getOAuthToken,
+              id
+            }
+          }
+        }) => {
+          getOAuthToken(access_token => {
+            fetch(`https://api.spotify.com/v1/me/player/play?device_id=${id}`, {
+              method: 'PUT',
+              body: JSON.stringify({ uris: [spotify_uri] }),
+              headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${access_token}`
+              },
+            });
+          });
+        };
+
+        play({
+          playerInstance: player,
+          spotify_uri: 'spotify:playlist:0gzmAXWqZUG1wAvz31zAUw',
+        });
+      });
+
+      player.connect();
+    };
+  </script>
+</div>
+
 </body>
 
 
