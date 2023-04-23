@@ -287,4 +287,5 @@ kramdown:
       line_numbers: false
       start_line: 1
 
+gems: [jekyll-spotify]
 
