@@ -38,7 +38,7 @@ Papers
 ------
  
 <strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector <font color="Teal"> <br>
-[Job Market paper]</font> </strong> <br>
+<i>Job Market Paper</font></i> </strong> <br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
 </font> </summary>
