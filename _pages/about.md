@@ -28,7 +28,7 @@ main {
   .bottom-three {margin-bottom: 3cm; }
 </style>
 
-<img align="right" src="/images/IMG_5270.webp" alt="Photo" style="width: 285px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
+<img align="right" src="/images/IMG_5270.webp" alt="Photo" style="width: 295px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My research focuses on the intersection of behavioral and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).<br>
 
 <strong>I will be on the job market in the fall of 2023.</strong>
@@ -37,7 +37,9 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
  
-<strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector.</strong> <br>
+<strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector. 
+<font color="Teal"> 
+[Job Market paper] </strong></font> <br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
 </font> </summary>
