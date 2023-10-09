@@ -37,7 +37,7 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
  
-<strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector <br>
+<strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector 
 <font color="Teal"><i>Job Market Paper</i></font><br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
