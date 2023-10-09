@@ -37,7 +37,7 @@ I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/)
 Papers
 ------
  
-<strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector 
+(1) <strong>Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector 
 <font color="DimGray"><strong>[Job Market Paper]</strong></font><br>
 <details> <summary> <font color="Teal">  
 Abstract (click to expand)  
@@ -47,7 +47,7 @@ Around the world, governments provide tax benefits to incentivize charitable giv
     </p>
     </details><br>
 <strong>Presentations:</strong> EARIE 2023 (Rome), IIPF 2023 (Logan, Utah), CEA 2023, ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
-<strong>Taxing moral agents
+(2) <strong>Taxing moral agents
 [ [CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents) 
 <a href="https://munozsobrado.github.io/files/CESifo2022.bib"> [ .bib]  </a></strong>
 <details> <summary>  <font color="Teal">  
@@ -63,7 +63,7 @@ Rovira i Virgili)  <br>
 Work in Progress
 ------
 
-<strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
+(3) <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
 (with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
@@ -73,7 +73,7 @@ A principal wants to develop a new product by delegating its production to an ag
     </p>
     </details><br>
 
-<strong>The policy diverging effects of public funding of political elections</strong><br>
+(4) <strong>The policy diverging effects of public funding of political elections</strong><br>
 (with [Mauricio J. Sauma Webb [UC Chile]](https://vivo.uc.cl/display/auc250101))
 
 
