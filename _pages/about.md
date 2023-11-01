@@ -47,7 +47,7 @@ Abstract (click to expand)
 Around the world, governments provide tax benefits to incentivize charitable giving. I argue that the current approaches to determining the optimal level of such tax benefits neglect a crucial ingredient. While higher tax benefits increase charitable giving, they also intensify potentially wasteful competition for funds among charities. I build a model where charities use informative advertising to attract individual donors. Competition leads to inefficient fundraising as charities incur excessive advertising costs, and the inefficiency increases as available funds increase. I then estimate the structural parameters of the model using data from the universe of Nonprofits in the U.S. paired with data from the country's most prominent charity assessment organization. I document that leakage, the proportion of charities' budget not spent on direct public good provision,  goes up to 40 percent in my sample for 2014. Moreover, findings from counterfactual analyses suggest that fundraising accounts for significant endogenous leakage of gross donations into advertising. These findings suggest that estimates that ignore competition must be adjusted downwards to account for charities' endogenous responses to the tax code. 
     </p>
     </details><br>
-<strong>Presentations: <font color="Red"> &#128746; EWMES23 (Manchester)</font></strong>,  EARIE 2023 (Rome), IIPF 2023 (Logan, Utah), CEA 2023, ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
+<strong>Presentations: <font color="Crimson"> &#128746; EWMES23 (Manchester)</font></strong>,  EARIE 2023 (Rome), IIPF 2023 (Logan, Utah), CEA 2023, ESA World Meeting 2022 (Boston), European ESA Meeting 2022 (Bologna), MannheimTaxation Conference 2022 <br><br>
 (2) <strong>Taxing moral agents
 [ [CESifo Working Paper]](https://www.cesifo.org/en/publikationen/2022/working-paper/taxing-moral-agents) 
 <a href="https://munozsobrado.github.io/files/CESifo2022.bib"> [ .bib]  </a></strong>
@@ -64,7 +64,7 @@ Rovira i Virgili)  <br>
 Work in Progress
 ------
 
-(3) <strong>Resource allocation in the presence of moral hazard and endogenous adverse selection</strong><br>
+(3) <strong>Resource Allocation, Moral Hazard and Endogenous Human Capital Accumulation in Firms</strong><br>
 (with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
