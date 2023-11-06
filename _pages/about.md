@@ -32,7 +32,7 @@ main {
 
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My research focuses on the intersection of behavioral and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).<br>
 
-<strong>I will attend both the EEA and ASSA 2023/2024 academic job market.</strong>
+<strong>I will attend both the [EEA](https://www.europeanjobmarketofeconomists.org/candidates?field_candidate_name_target_id=Esteban+Mu%C3%B1oz-Sobrado+%2816023%29&field_phd_granting_institution_target_id=&field_i_am_also_interested_in_no_value=All&field_year_expected_year_of_phd_value=All&field_participated_in_a_postdoc_value=All&field_a_z_value=M) and [ASSA](https://www.aeaweb.org/joe/candidates/candidate_profile_view.php?jcand=_jHuo5gwOYV4mC8Lh8Kjp05wZJlHPs7n) 2023/2024 academic job market.</strong>
 
 
 Papers
@@ -70,7 +70,7 @@ Work in Progress
 Abstract  (click to expand) <br>  
 </font>  </summary>
     <p>
-This paper studies the problem of resource allocation in the presence of moral hazard. An agent exerts effort a privately chooses resource allocation between two types of capital: one that increases the productivity of effort and one that reduces its cost. Our analysis provides conditions such that the agent's problem exhibits complementarity between effort and productivity. In this case, we show that the agent under-allocates resources to increasing his productivity. The main result of the paper provides sufficient conditions on the production problem such that the agent strictly benefits from the allocation being private information. The model has applications to technology procurement, product development, and time allocation in labor settings.
+This paper studies the problem of resource allocation in the presence of moral hazard. An agent exerts effort and privately chooses resource allocation between two types of capital: one that increases the productivity of effort and one that reduces its cost. Our analysis provides conditions such that the agent's problem exhibits complementarity between effort and productivity. In this case, we show that the agent under-allocates resources to increase his productivity. The main result of the paper provides sufficient conditions on the production problem such that the agent strictly benefits from the allocation being private information. The model can be applied to several economic environments, such as technology procurement, product development, and time allocation in labor settings.
     </p>
     </details><br>
 
