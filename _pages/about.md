@@ -30,7 +30,7 @@ main {
 
 <img align="right" src="/images/JM_photo6.webp" alt="Photo" style="width: 395px; border-radius: 10px; padding: 0px 8px 8px 8px"/>
 
-I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/). My research focuses on the intersection of behavioral and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).<br>
+I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/people/esteban-munoz-sobrado). My research focuses on the intersection of behavioral and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).<br>
 
 <strong>I will attend both the [EEA](https://www.europeanjobmarketofeconomists.org/candidates?field_candidate_name_target_id=Esteban+Mu%C3%B1oz-Sobrado+%2816023%29&field_phd_granting_institution_target_id=&field_i_am_also_interested_in_no_value=All&field_year_expected_year_of_phd_value=All&field_participated_in_a_postdoc_value=All&field_a_z_value=M) and [ASSA](https://www.aeaweb.org/joe/candidates/candidate_profile_view.php?jcand=_jHuo5gwOYV4mC8Lh8Kjp05wZJlHPs7n) 2023/2024 academic job market.</strong>
 
