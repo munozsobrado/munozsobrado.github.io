@@ -91,7 +91,7 @@ author:
   avatar           : "TSElogo.webp"
   bio              : "Ph.D. candidate in Economics"
   location         : "Toulouse, France"
-  employer         : "<a href="https://www.tse-fr.eu/people/esteban-munoz-sobrado">[TSE Website]"
+  employer         : #"<a href="https://www.tse-fr.eu/people/esteban-munoz-sobrado">[TSE Website]"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QKg19jkAAAAJ&hl=en"
   email            : "esteban.munoz@tse-fr.eu"
