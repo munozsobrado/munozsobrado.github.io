@@ -61,18 +61,18 @@ Experimental and empirical findings suggest that non-pecuniary motivations play 
 <strong>Presentations:</strong> IIPF Congress 2022 (Linz), CESifo Area Conference on Public Economics 2022, Fairness and the Moral Mind workshop (FAIR center, Norwegian School of Economics), LawPolEcCon 2021 (Max Planck Institute for Public Goods and Tax Law), Tilburg Enter Network Seminar 2021, 2021 Workshop of Industrial and Public Economics (Universitat
 Rovira i Virgili)  <br>
 
-Work in Progress
-------
-
 (3) <strong>Resource Allocation, Moral Hazard and Endogenous Human Capital Accumulation in Firms</strong><br>
-(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil))
+(with [Alae Baha [Oxford]](https://sites.google.com/view/alae-baha/accueil)) <font color="Teal"> [Available upon request]</font>
 <details> <summary>  <font color="Teal">  
 Abstract  (click to expand) <br>  
 </font>  </summary>
     <p>
-This paper studies the problem of resource allocation in the presence of moral hazard. An agent exerts effort and privately chooses resource allocation between two types of capital: one that increases the productivity of effort and one that reduces its cost. Our analysis provides conditions such that the agent's problem exhibits complementarity between effort and productivity. In this case, we show that the agent under-allocates resources to increase his productivity. The main result of the paper provides sufficient conditions on the production problem such that the agent strictly benefits from the allocation being private information. The model can be applied to several economic environments, such as technology procurement, product development, and time allocation in labor settings.
+This paper studies the problem of resource allocation in the presence of moral hazard. An agent exerts effort and privately chooses resource allocation between two types of capital: one that increases the productivity of exerting effort and one that reduces its cost. Our analysis provides conditions such that the agent's problem exhibits complementarity between effort and productivity. In this case, we show that the agent under-allocates resources to increase productivity. The paper's main result provides sufficient conditions on the production problem such that the agent strictly benefits from the allocation being private information. The model can be applied to several economic environments, such as technology procurement, product development, and time allocation in labor settings.
     </p>
     </details><br>
+
+Work in Progress
+------
 
 (4) <strong>The policy diverging effects of public funding of political elections</strong><br>
 (with [Mauricio J. Sauma Webb [UC Chile]](https://vivo.uc.cl/display/auc250101))
