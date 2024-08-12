@@ -32,7 +32,7 @@ main {
 
 I am a Ph.D. candidate at [Toulouse School of Economics](https://www.tse-fr.eu/people/esteban-munoz-sobrado). My research focuses on the intersection of behavioral and public economics. In particular, I study the role of social preferences in taxation and how competition among prosocial actors can affect the decentralized provision of public goods. My broader interests include contract theory and its applications. You can find my CV [here](https://munozsobrado.github.io/files/CV_MunozSobrado.pdf).<br>
 
-<strong><font color="Teal"> News:</font> I defended my Ph.D thesis on June 26th.</strong>
+<strong><font color="Teal"> News:</font></strong>  I defended my Ph.D thesis on June 26th and will join the Faculty of Economics and Business at the Universitat Rovira i Virgili as an Assistant Professor in Fall 2024.
 
 
 Papers
