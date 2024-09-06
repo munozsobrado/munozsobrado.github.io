@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Esteban Muñoz-Sobrado"
 title_separator          : "-"
 name                     : &name "Esteban Muñoz-Sobrado"
-description              : &description "Ph.D. candidate, Toulouse School of Economics"
+description              : &description "Ph.D. economist"
 url                      : https://munozsobrado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "www.munozsobrado.com"
@@ -88,13 +88,13 @@ analytics:
 # Site Author
 author:
   name             : #"Esteban Muñoz-Sobrado"
-  avatar           : "TSElogo.webp"
-  bio              : "Ph.D. candidate in Economics"
-  location         : "Toulouse, France"
+  avatar           : #"TSElogo.webp"
+  bio              : #"Ph.D. candidate in Economics"
+  location         : #"Toulouse, France"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QKg19jkAAAAJ&hl=en"
-  email            : "esteban.munoz@tse-fr.eu"
+  email            : #"esteban.munoz@tse-fr.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "esteban-mu%C3%B1oz-sobrado-04944b71"
+  linkedin         : #"esteban-mu%C3%B1oz-sobrado-04944b71"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
