@@ -34,3 +34,5 @@ I obtained my PhD at Toulouse School of Economics in June 2024. I participated i
 
 I decided to use the time after my defense to work on this website. A new website and professional updates are coming soon!
 
+You may reach me at my Gmail: e.munoz.sobrado
+
