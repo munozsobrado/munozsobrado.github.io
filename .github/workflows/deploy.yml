@@ -15,20 +15,15 @@ jobs:
           submodules: true
 
       - name: Setup Hugo
-        run: |
-          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.136.5/hugo_extended_0.136.5_linux-amd64.tar.gz'
-          tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.136.5'
 
       - name: Build
-        run: ${RUNNER_TEMP}/hugo
+        run: hugo
 
-      - name: Deploy
-        run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-email@example.com'
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
-          cd ${GITHUB_WORKSPACE}/built-site
-          git init
-          git add .
-          git commit -m "Deploy updated site"
-          git push -f origin HEAD:gh-pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
