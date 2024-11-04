@@ -18,15 +18,12 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.136.5'
-        working-directory: ./
 
       - name: Build
         run: hugo
-        working-directory: ./
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-        working-directory: ./
