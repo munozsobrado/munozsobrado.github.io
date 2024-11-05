@@ -39,7 +39,7 @@ languages:
           url: tags/
           weight: 10
         - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          url: https://munozsobrado.github.io/
 
   fr:
     languageName: ":fr:"
@@ -185,6 +185,7 @@ params:
 
   assets:
     disableHLJS: true
+    css: ["css/custom.css"]  # Add this line to specify your custom CSS
   #     favicon: "<link / abs url>"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
