@@ -41,7 +41,7 @@ languages:
         title: Esteban Muñoz-Sobrado
         imageUrl: "/images/profile.jpg"
         imageTitle: ProfileMode image
-        #imageWidth: 600
+        imageWidth: 600
         imageHeight: 400
         subtitle: |
           Welcome! I am an economist.<br><br>
