@@ -30,10 +30,7 @@ languages:
       tag: FRtags
       series: FRseries
     menu:
-      main:
-        #- name: Archive
-         # url: archives/
-         # weight: 5
+      main: []
 
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
