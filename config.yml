@@ -138,10 +138,10 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+      #- name: Archives
+      #  url: archives
+      #- name: Tags
+      #  url: tags
 
   homeInfoParams:
     Title: "My Site"
