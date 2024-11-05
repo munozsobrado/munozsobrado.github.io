@@ -37,6 +37,7 @@ languages:
     params:
       languageAltTitle: French
       profileMode:
+      customCSS: ["css/custom.css"]
         enabled: true
         title: Esteban Muñoz-Sobrado
         imageUrl: "/images/profile.jpg"
