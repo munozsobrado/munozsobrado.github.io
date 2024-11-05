@@ -41,8 +41,8 @@ languages:
         title: Esteban Muñoz-Sobrado
         imageUrl: "/images/profile.jpg"
         imageTitle: ProfileMode image
-        imageWidth: 400
-        # imageHeight: 120
+        #imageWidth: 400
+        imageHeight: 400
         subtitle: |
           Welcome! I am an economist.<br><br>
           I obtained a Ph.D in Economics from Toulouse School of Economics in 2024.<br><br>
