@@ -44,11 +44,6 @@ languages:
         # imageWidth: 120
         # imageHeight: 120
         subtitle: "Welcome to my pesonal site"
-        buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
   fa:
     languagedirection: rtl
