@@ -31,20 +31,10 @@ languages:
       series: FRseries
     menu:
       main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: FRTags
-          url: frtags
-          weight: 10
-        - name: FRCategories
-          url: frcategories
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
-        - name: NullLink
-          url: "#"
+        #- name: Archive
+         # url: archives/
+         # weight: 5
+
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
