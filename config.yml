@@ -39,7 +39,7 @@ languages:
       profileMode:
         enabled: true
         title: Esteban Muñoz-Sobrado
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageUrl: "/images/Best_Vertical.jpg"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
