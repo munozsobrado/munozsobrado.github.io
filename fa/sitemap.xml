@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://munozsobrado.github.io/fr/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="https://munozsobrado.github.io/fa/posts/markdown-syntax/"
                 />
@@ -42,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://munozsobrado.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="https://munozsobrado.github.io/fa/"
                 />
@@ -52,6 +62,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://munozsobrado.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://munozsobrado.github.io/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
