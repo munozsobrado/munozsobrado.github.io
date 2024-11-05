@@ -15,12 +15,3 @@ iframe {
 .entry-cover img {
     border: 1px solid var(--border);
 }
-
-.profile-image {
-    width: 200px;           /* Set the size of the circular area */
-    height: 200px;
-    border-radius: 50%;     /* Creates the circular shape */
-    overflow: hidden;       /* Ensures only the circular area is shown */
-    object-fit: cover;      /* Keeps the image centered and cropped */
-    display: inline-block;
-}
