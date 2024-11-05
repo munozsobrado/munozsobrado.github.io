@@ -111,12 +111,12 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
-  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
