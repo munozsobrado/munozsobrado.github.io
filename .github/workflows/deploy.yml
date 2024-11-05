@@ -16,7 +16,7 @@ jobs:
 
       - name: List directory contents (for debugging)
         run: ls -R
-      
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
