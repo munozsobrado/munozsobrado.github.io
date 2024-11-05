@@ -24,7 +24,7 @@ languages:
   fr:
     languageName: ":fr:"
     weight: 2
-    title: Esteban Muñoz-Sobrado
+    title: Home
     taxonomies:
       category: FRcategories
       tag: FRtags
