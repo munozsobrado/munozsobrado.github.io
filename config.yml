@@ -37,21 +37,18 @@ languages:
     params:
       languageAltTitle: French
       profileMode:
-      customCSS: ["css/custom.css"]
         enabled: true
         title: Esteban Muñoz-Sobrado
         imageUrl: "/images/profile.jpg"
         imageTitle: ProfileMode image
-        imageWidth: 200
-        #imageWidth: 400
-        #imageHeight: 240
-        imageHeight: 200
+        imageWidth: 400
+        imageHeight: 240
         subtitle: |
           Welcome! I am an economist.<br><br>
           I obtained a Ph.D in Economics from Toulouse School of Economics in 2024.<br><br>
           **News:** I recently accepted a position at Universitat Rovira i Virgili in Catalonia, Spain. I will be joining the Department of Economics as an Assistant Professor during the Fall Semester of 2024. <br><br>          
           **More coming soon!**
-
+      customCSS: ["css/custom.css"]
 
 
 
