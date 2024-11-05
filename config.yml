@@ -42,7 +42,7 @@ languages:
         imageUrl: "/images/profile.jpg"
         imageTitle: ProfileMode image
         imageWidth: 400
-        imageHeight: 267
+        imageHeight: 240
         subtitle: |
           Welcome! I am an economist.<br><br>
           I obtained a Ph.D in Economics from Toulouse School of Economics in 2024.<br><br>
