@@ -20,22 +20,6 @@ minify:
   # minifyOutput: true
 
 languages:
-  en:
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: Home
-          url: "/"
-          weight: 1
-        - name: About Me
-          url: "#about"  # If you create an anchor link in the page
-          weight: 2
-
   fr:
     languageName: ":fr:"
     weight: 2
