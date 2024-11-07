@@ -3,7 +3,7 @@
 baseURL: "https://munozsobrado.github.io/"
 defaultContentLanguage: fr
 title: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© Esteban Muñoz-Sobrado 2024"
 paginate: 5
 theme: ["PaperMod"]
 
