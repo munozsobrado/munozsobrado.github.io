@@ -3,7 +3,6 @@ title: "Research"
 layout: "single"
 ---
 
-## Papers
 
 1. **Competing for Donations: The Role of Tax Deductibility in the U.S. Charitable Sector**  
    <details> <summary style="color: teal;">Abstract (click to expand)</summary>
