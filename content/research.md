@@ -1,5 +1,5 @@
 ---
 title: "Research"
 placeholder: Research ...
-layout: "page"
+layout: "single"
 ---
