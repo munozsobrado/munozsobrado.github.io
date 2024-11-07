@@ -30,7 +30,10 @@ languages:
       tag: FRtags
       series: FRseries
     menu:
-      main: []
+      main: 
+        - name: Research
+          url: /research/
+          weight: 1
 
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
