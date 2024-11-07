@@ -37,6 +37,7 @@ languages:
     params:
       languageAltTitle: French
       sideTitle: "Home."
+      title: "Home"
       profileMode:
         enabled: true
         title: Esteban Muñoz-Sobrado
