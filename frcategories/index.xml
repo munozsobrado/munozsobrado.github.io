@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frcategories on Muñoz-Sobrado</title>
-    <link>https://munozsobrado.github.io/frcategories/</link>
+    <link>https://www.munozsobrado.com/frcategories/</link>
     <description>Recent content in Frcategories on Muñoz-Sobrado</description>
     <image>
       <title>Muñoz-Sobrado</title>
-      <url>https://munozsobrado.github.io/images/papermod-cover.png</url>
-      <link>https://munozsobrado.github.io/images/papermod-cover.png</link>
+      <url>https://www.munozsobrado.com/images/papermod-cover.png</url>
+      <link>https://www.munozsobrado.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>fr</language>
     <copyright>Esteban Muñoz-Sobrado 2024</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://munozsobrado.github.io/frcategories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.munozsobrado.com/frcategories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>https://munozsobrado.github.io/frcategories/syntax/</link>
+      <link>https://www.munozsobrado.com/frcategories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://munozsobrado.github.io/frcategories/syntax/</guid>
+      <guid>https://www.munozsobrado.com/frcategories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://munozsobrado.github.io/frcategories/themes/</link>
+      <link>https://www.munozsobrado.com/frcategories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://munozsobrado.github.io/frcategories/themes/</guid>
+      <guid>https://www.munozsobrado.com/frcategories/themes/</guid>
       <description></description>
     </item>
   </channel>
