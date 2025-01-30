@@ -46,13 +46,13 @@ languages:
         imageTitle: ProfileMode image
         imageWidth: 300
         imageHeight: 300
-    	subtitle: |
-      	   I am an Assistant Professor (Professor Lector) in the Department of Economics at 
-           <a href="https://www.urv.cat/en/" target="_blank">Universitat Rovira i Virgili</a>.<br><br>
-           My research lies at the intersection of public and behavioral economics, exploring how social 
-           preferences shape taxation policies and influence the decentralized provision of public goods.<br><br>
-           More broadly, I am interested in Contract Theory and its applications.<br><br>
-           I obtained my Ph.D. in Economics from <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics</a> in 2024.<br><br>
+        subtitle: |
+          I am an Assistant Professor (Professor Lector) in the Department of Economics at 
+          <a href="https://www.urv.cat/en/" target="_blank">Universitat Rovira i Virgili</a>.<br><br>
+          My research lies at the intersection of public and behavioral economics, exploring how social 
+          preferences shape taxation policies and influence the decentralized provision of public goods.<br><br>
+          More broadly, I am interested in Contract Theory and its applications.<br><br>
+          I obtained my Ph.D. in Economics from <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics</a> in 2024.<br><br>
 
 
 outputs:
