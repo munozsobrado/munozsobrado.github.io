@@ -82,10 +82,10 @@ params:
   ShowToc: false
   # comments: false
   images: ["images/papermod-cover.png"]
-  analytics:
-      google:
-          SiteVerificationTag: "G-459M87WTZZ"
 
+params:
+  analytics:
+    googleAnalytics: "G-459M87WTZZ"
 
   profileMode:
     enabled: false
