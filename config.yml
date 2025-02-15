@@ -84,8 +84,11 @@ params:
   images: ["images/papermod-cover.png"]
 
 params:
+  env: production # Enables Google Analytics tracking
   analytics:
-    googleAnalytics: "G-459M87WTZZ"
+    google:
+      ID: "G-459M87WTZZ"
+
 
   profileMode:
     enabled: false
