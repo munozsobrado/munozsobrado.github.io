@@ -82,6 +82,10 @@ params:
   ShowToc: false
   # comments: false
   images: ["images/papermod-cover.png"]
+  analytics:
+      google:
+          SiteVerificationTag: "G-459M87WTZZ"
+
 
   profileMode:
     enabled: false
@@ -126,10 +130,6 @@ params:
   # text: "Home"
   # icon: icon.png
   # iconHeight: 35
-
-   analytics:
-       google:
-           SiteVerificationTag: "G-459M87WTZZ"
 
   assets:
     disableHLJS: true
