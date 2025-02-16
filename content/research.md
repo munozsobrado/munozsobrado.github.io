@@ -39,6 +39,6 @@ layout: "single"
 
 - **The Taxing Challenges of the State: Unveiling the Role of Fiscal and Administrative Capacity in Development**  
   *Federica Braccioli, Esteban Muñoz-Sobrado, Amedeo Piolatto, Antoine Zerbini*  
-  Published in **CESifo Economic Studies**, 2025  
-  [DOI: 10.1093/cesifo/ifae025](https://doi.org/10.1093/cesifo/ifae025)
-  [BSE Working Paper](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity)  
+  **CESifo Economic Studies**, 2025  
+  [[URL]](https://doi.org/10.1093/cesifo/ifae025)
+  [[BSE Working Paper]](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity)  
