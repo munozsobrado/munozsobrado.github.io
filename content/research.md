@@ -30,14 +30,15 @@ layout: "single"
    </details>
 
 
-4. **The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development**
-   (with Amedeo Piolatto ⓡ Antoine Zerbini ⓡ Federica Braccioli)
-   [BSE Working Paper](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity)
-   <details> <summary><font color="Teal">Abstract (click to expand)</font></summary>
-   <p>
-   During the past two decades, several factors have challenged the stability of national states, adding tensions to the connection between the state and the individual. This paper    reviews the literature on state capacity. First, it introduces the origin of the literature and presents the well-established positive correlation between state capacity and economic  development. Second, it touches upon fiscal and administrative capacity and conflict. It concludes with a provocative reflection on digital nomads to push the research frontier in analyzing the connection between the state and the individual.
-</p>
-   </details>
-
-5. **The policy diverging effects of public funding of political elections**  _[new version coming soon]_ 
+4. **The policy diverging effects of public funding of political elections**  _[new version coming soon]_ 
    (with [Mauricio J. Sauma Webb](https://vivo.uc.cl/display/auc250101))
+
+---
+
+## Publications
+
+- **The Taxing Challenges of the State: Unveiling the Role of Fiscal and Administrative Capacity in Development**  
+  *Federica Braccioli, Esteban Muñoz-Sobrado, Amedeo Piolatto, Antoine Zerbini*  
+  Published in **CESifo Economic Studies**, 2025  
+  [DOI: 10.1093/cesifo/ifae025](https://doi.org/10.1093/cesifo/ifae025)
+  [BSE Working Paper](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity)  
