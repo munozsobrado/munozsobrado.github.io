@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.munozsobrado.com/sitemap.xml

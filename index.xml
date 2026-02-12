@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Muñoz-Sobrado</title>
+    <link>https://www.munozsobrado.com/</link>
+    <description>Recent content in Home on Muñoz-Sobrado</description>
+    <image>
+      <title>Muñoz-Sobrado</title>
+      <url>https://www.munozsobrado.com/images/papermod-cover.png</url>
+      <link>https://www.munozsobrado.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <copyright>Esteban Muñoz-Sobrado 2024</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.munozsobrado.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>https://www.munozsobrado.com/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>https://www.munozsobrado.com/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://www.munozsobrado.com/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>https://www.munozsobrado.com/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://www.munozsobrado.com/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://www.munozsobrado.com/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://www.munozsobrado.com/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://www.munozsobrado.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.munozsobrado.com/research/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Universalization and the Origins of Fiscal Capacity&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2510.17481&#34;&gt;[arXiv]&lt;/a&gt; — &lt;em&gt;Revise &amp;amp; Resubmit at &lt;em&gt;Journal of Economic Behavior &amp;amp; Organization&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;details&gt; &lt;summary style=&#34;color: teal;&#34;&gt;Abstract (click to expand)&lt;/summary&gt;
+&lt;p&gt;
+This paper proposes a model of tax compliance and fiscal capacity grounded in universalization reasoning. Citizens partially internalize the consequences of concealment by imagining a world in which everyone acted similarly, linking their compliance decisions to the perceived effectiveness of public spending. A selfish elite chooses between public goods and private rents, taking compliance as given. In equilibrium, citizens&#39; moral internalization expands the feasible tax base and induces elites to allocate resources toward provision rather than appropriation. When the value of public spending is uncertain, morality enables credible reform: high-value elites can signal their type through provision, prompting citizens to increase compliance and raising fiscal capacity within the same period. The analysis thus identifies a moral channel through which states may escape low-capacity traps even under weak institutions.
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
